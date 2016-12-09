@@ -145,7 +145,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [cli](https://github.com/mkideal/cli) - A feature-rich and easy to use command-line package based on golang tag - :arrow_down:42 - :star:204
 * [cli-init](https://github.com/tcnksm/gcli) - The easy way to start building Golang command line application. - :arrow_down:0 - :star:559
 * [climax](http://github.com/tucnak/climax) - An alternative CLI with "human face", in spirit of Go command - :arrow_down:6 - :star:98
-* [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions - :arrow_down:3756 - :star:2817
+* [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions - :arrow_down:3764 - :star:2817
 * [docopt.go](https://github.com/docopt/docopt.go) - A command-line arguments parser that will make you smile. - :arrow_down:54 - :star:723
 * [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 * [go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go - :arrow_down:34 - :star:370
@@ -558,7 +558,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [log15](https://github.com/inconshreveable/log15) - Simple, powerful logging for Go - :arrow_down:166 - :star:506
 * [logex](https://github.com/chzyer/logex) - An golang log lib, supports tracking and level, wrap by standard log lib - :arrow_down:20 - :star:26
 * [logger](https://github.com/azer/logger) - Minimalistic logging library for Go. - :arrow_down:21 - :star:68
-* [logrus](https://github.com/Sirupsen/logrus) - a structured logger for Go. - :arrow_down:29927 - :star:3335
+* [logrus](https://github.com/Sirupsen/logrus) - a structured logger for Go. - :arrow_down:29949 - :star:3335
 * [logrusly](https://github.com/sebest/logrusly) - [logrus](https://github.com/sirupsen/logrus) plug-in to send errors to a [Loggly](https://www.loggly.com/). - :arrow_down:14 - :star:13
 * [logutils](https://github.com/hashicorp/logutils) - Utilities for slightly better logging in Go (Golang) extending the standard logger. - :arrow_down:532 - :star:139
 * [logxi](https://github.com/mgutz/logxi) - A 12-factor app logger that is fast and makes you happy. - :arrow_down:0 - :star:219
@@ -1099,7 +1099,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [scheduler](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy. - :arrow_down:12 - :star:103
 * [sling](https://github.com/dghubble/sling) - Go HTTP requests builder for API clients. - :arrow_down:64 - :star:370
 * [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options. - :arrow_down:32 - :star:258
-* [sqlx](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package. - :arrow_down:1100 - :star:2005
+* [sqlx](https://github.com/jmoiron/sqlx) - provides a set of extensions on top of the excellent built-in database/sql package. - :arrow_down:1101 - :star:2005
 * [toolbox](https://github.com/viant/toolbox) - Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer. - :arrow_down:6 - :star:2
 * [ugo](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go. - :arrow_down:0 - :star:10
 * [xferspdy](https://github.com/monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang - :arrow_down:0 - :star:12
@@ -1173,7 +1173,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go. - :arrow_down:10 - :star:1219
 * [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. - :arrow_down:77 - :star:304
 * [medeina](https://github.com/imdario/medeina) - Medeina is a HTTP routing tree based on HttpRouter, inspired by Roda and Cuba. - :arrow_down:1 - :star:16
-* [mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang. - :arrow_down:8785 - :star:2741
+* [mux](https://github.com/gorilla/mux) - A powerful URL router and dispatcher for golang. - :arrow_down:8786 - :star:2741
 * [neo](https://github.com/ivpusic/neo) - Neo is minimal and fast Go Web Framework with extremely simple API. - :arrow_down:16 - :star:276
 * [ozzo-routing](https://github.com/go-ozzo/ozzo-routing) - A high-performance HTTP router and Web framework supporting routes with regular expressions. Comes with full support for quickly building a RESTful API application. - :arrow_down:45 - :star:108
 * [pat](https://github.com/bmizerany/pat) - Sinatra style pattern muxer for Go’s net/http library, by the author of Sinatra. - :arrow_down:560 - :star:978
@@ -1201,7 +1201,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 
 #### Actual middlewares
 
-* [CORS](https://github.com/rs/cors) - Easily add CORS capabilities to your API. - :arrow_down:386 - :star:361
+* [CORS](https://github.com/rs/cors) - Easily add CORS capabilities to your API. - :arrow_down:387 - :star:361
 * [formjson](https://github.com/rs/formjson) - Transparently handle JSON input as a standard form POST. - :arrow_down:0 - :star:20
 * [Limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go. - :arrow_down:2 - :star:226
 * [Tollbooth](https://github.com/didip/tollbooth) - Rate limit HTTP request handler. - :arrow_down:13 - :star:410
